@@ -1,6 +1,6 @@
 ### Hi there, I'm Ole 👋
 
-![Portrait: Ole Rößner](img/oroessner-2020-100px.png "Ole Rößner")
+![Portrait: Ole Rößner](https://github.com/Basster/Basster/blob/master/img/oroessner-2020-100px.png?raw=true "Ole Rößner")
 
 I'm a software developer, coach and consultant at [@teamneusta](https://github.com/teamneusta).
 
