@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Ole 👋
 
-<!--
-**Basster/Basster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer, coach and consultant at @teamneusta.
 
-Here are some ideas to get you started:
+- I've been doing @symfony projects since 2009 (Version 1.4), so I'd call myself a Symfony Enthusiast.
+- I'm trying to spread my experience by giving talks at various meetups, usergroups and conferences. See my [talks](https://github.com/Basster/talks) repository for details.
+- Beside PHP and Symfony I'm heavily interested in DevOps stuff, like @kubernetes, @docker and @traefik.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+  - [Twitter](https://twitter.com/djbasster)
+  - [Mastodon](https://mastodon.social/@oroessner)
+  - [Email](mailto:o.roessner@neusta.de)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: "Basster" is my former DJ name, find my discography at [Mixcloud](https://www.mixcloud.com/basster/)
