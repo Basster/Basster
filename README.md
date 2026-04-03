@@ -2,7 +2,7 @@
 
 ![Portrait: Ole Rößner](https://github.com/Basster/Basster/blob/master/img/oroessner-2020-100px.png?raw=true "Ole Rößner")
 
-I'm a software developer, coach and consultant at [@teamneusta](https://github.com/teamneusta).
+I am a software developer and devops-engineer and work at [normalis](https://www.normalis.de) in Bremen.
 
 - I'm doing [@symfony](https://github.com/symfony) projects since 2009 (Version 1.4), so I'd call myself a Symfony Enthusiast.
 - I try to share my experience by giving talks on various meetups, user groups and conferences. See my [talks](https://github.com/Basster/talks) repository for details (German/English).
@@ -13,9 +13,8 @@ I'm a software developer, coach and consultant at [@teamneusta](https://github.c
 ---
 
 - 📫 How to reach me:
-  - [Twitter](https://twitter.com/djbasster)
-  - [Mastodon](https://mastodon.social/@oroessner)
-  - [Email](mailto:o.roessner@neusta.de)
+  - [Mastodon](https://norden.social/@basster)
+  - [Bluesky](https://bsky.app/profile/basster.de)
 - 😄 Pronouns: he/him
 - 🗣️ Languages: German, English
 - ⚡ Fun fact: "Basster" is my (former) DJ name, find my discography at [Mixcloud](https://www.mixcloud.com/basster/)
